@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![GitHub Trends SVG](https://api.githubtrends.io/Dacoband/svg/avgupta456/langs)](https://githubtrends.io)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dacoband&icon=7&color=3)](https://visitcount.itsvg.in)
