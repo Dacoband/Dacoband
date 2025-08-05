@@ -34,32 +34,17 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> &nbsp;
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> &nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> &nbsp;
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> &nbsp;
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> &nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> &nbsp;
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> &nbsp;
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,typescript,dart,go,python" />
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> &nbsp;
-  <img src="https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/> &nbsp;
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> &nbsp;
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,supabase,cassandra" />
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/> &nbsp;
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/> &nbsp;
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> &nbsp;
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/> &nbsp;
-  <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> &nbsp;
-  <img src="https://img.shields.io/badge/gin-00B386?style=for-the-badge&logo=gin&logoColor=white" alt="Gin"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nextjs,vite,flutter,angular,django,fastapi,graphql,kafka,kotlin,kubernetes,nginx,rabbitmq,unity" />
   <img src="https://img.shields.io/badge/llvm-262D3A?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM"/> &nbsp;
   <img src="https://img.shields.io/badge/LangChain-%2300C7B7.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> &nbsp;
   <img src="https://img.shields.io/badge/RAG-%2320232a.svg?style=for-the-badge&logo=retrievalaugmentedgeneration&logoColor=white" alt="RAG"/> &nbsp;
